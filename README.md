@@ -1,6 +1,6 @@
 # Тестовое задание
 
-🚀 **[Демо](https://aintripin.github.io/makves___test_assignment/)**
+## 🚀 **[Демо](https://aintripin.github.io/makves___test_assignment/)**
 
 ## Что сделано
 
